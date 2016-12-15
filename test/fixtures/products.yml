@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  description: MyText
+  image_url: MyString
+  price: 9.99
+
+two:
+  title: MyString
+  description: MyText
+  image_url: MyString
+  price: 9.99
+
+ruby:
+  title:      Programming Ruby 1.9
+  description:
+    Ruby used to be cool, but now python and node.js is 
+    burying it. If you want to hang out with people who used 
+    to be cool and didn't keep up, you should add ruby to your toolbox.
+  price:     49.50
+  image_url: ruby.png
+  
