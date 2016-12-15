@@ -70,4 +70,6 @@ class ProductTest < ActiveSupport::TestCase
     assert product.invalid?
     assert_equal product.errors[:title], ["is too short (minimum is 10 characters)"]
   end
+
+
 end
